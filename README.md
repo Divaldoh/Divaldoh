@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Golang**, **Flutter** and **C**
 
-- 🎓College student of **IFAL**
+- 🎓College student of System Information in **IFAL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
