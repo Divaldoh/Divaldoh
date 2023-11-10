@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🤩 I'm Divaldo</h1>
 <h3 align="center">A brazillian passionate for development </h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🌱 I’m currently learning **Golang**, **Python**
+<p>- 🌱 I’m currently learning **Golang**, **Python**</p>
 - 🎓College student of **Information System** in **IFAL**
 
 <h3 align="left">Languages and Tools:</h3>
