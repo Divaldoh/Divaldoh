@@ -2,7 +2,7 @@
 <h3 align="center">A brazillian passionate for development </h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p>- 🌱 I’m currently learning database, api support and data struct</p>
-- 🎓College student of Information System in IFAL
+- 🎓College student of Information System at IFAL
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
