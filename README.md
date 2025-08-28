@@ -1,6 +1,6 @@
 <h1 align="center">Hello 🤩 I'm Divaldo</h1>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p>- 🌱 I’m currently learning Data Analytics, Machine Learning and Cloud</p>
+<p>- 🌱 I’m Fullstack Developer</p>
 - 🎓College student of Information System at IFAL
 
 <h3 align="left"> Languages: </h3>
